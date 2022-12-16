@@ -1,0 +1,776 @@
+{
+  "1001": [
+    {
+      "amount": "35.00",
+      "transactionType": "debit",
+      "date": "12/14/2022",
+      "month": "December"
+    },
+    {
+      "amount": "839.00",
+      "transactionType": "debit",
+      "date": "11/29/2022",
+      "month": "November"
+    },
+    {
+      "amount": "30.00",
+      "transactionType": "debit",
+      "date": "11/28/2022",
+      "month": "November"
+    },
+    {
+      "amount": "105.00",
+      "transactionType": "credit",
+      "date": "11/23/2022",
+      "month": "November"
+    },
+    {
+      "amount": "290.00",
+      "transactionType": "debit",
+      "date": "11/16/2022",
+      "month": "November"
+    },
+    {
+      "amount": "78.00",
+      "transactionType": "debit",
+      "date": "11/10/2022",
+      "month": "November"
+    },
+    {
+      "amount": "549.00",
+      "transactionType": "debit",
+      "date": "11/3/2022",
+      "month": "November"
+    },
+    {
+      "amount": "58.00",
+      "transactionType": "debit",
+      "date": "11/2/2022",
+      "month": "November"
+    },
+    {
+      "amount": "232.00",
+      "transactionType": "debit",
+      "date": "10/29/2022",
+      "month": "October"
+    },
+    {
+      "amount": "12.39",
+      "transactionType": "credit",
+      "date": "10/23/2022",
+      "month": "October"
+    },
+    {
+      "amount": "23.42",
+      "transactionType": "debit",
+      "date": "10/19/2022",
+      "month": "October"
+    },
+    {
+      "amount": "17.00",
+      "transactionType": "debit",
+      "date": "10/16/2022",
+      "month": "October"
+    },
+    {
+      "amount": "170.00",
+      "transactionType": "debit",
+      "date": "10/12/2022",
+      "month": "October"
+    },
+    {
+      "amount": "42.00",
+      "transactionType": "debit",
+      "date": "10/3/2022",
+      "month": "October"
+    }
+  ],
+  "1002": [
+    {
+      "amount": "165.00",
+      "transactionType": "debit",
+      "date": "12/14/2022",
+      "month": "December"
+    },
+    {
+      "amount": "111.00",
+      "transactionType": "debit",
+      "date": "11/29/2022",
+      "month": "November"
+    },
+    {
+      "amount": "352.00",
+      "transactionType": "debit",
+      "date": "11/28/2022",
+      "month": "November"
+    },
+    {
+      "amount": "62.00",
+      "transactionType": "debit",
+      "date": "11/23/2022",
+      "month": "November"
+    },
+    {
+      "amount": "33.00",
+      "transactionType": "debit",
+      "date": "11/16/2022",
+      "month": "November"
+    },
+    {
+      "amount": "213.00",
+      "transactionType": "debit",
+      "date": "11/10/2022",
+      "month": "November"
+    },
+    {
+      "amount": "44.00",
+      "transactionType": "debit",
+      "date": "11/3/2022",
+      "month": "November"
+    },
+    {
+      "amount": "94.00",
+      "transactionType": "debit",
+      "date": "11/2/2022",
+      "month": "November"
+    },
+    {
+      "amount": "33.00",
+      "transactionType": "debit",
+      "date": "10/29/2022",
+      "month": "October"
+    },
+    {
+      "amount": "455.00",
+      "transactionType": "debit",
+      "date": "10/23/2022",
+      "month": "October"
+    },
+    {
+      "amount": "204.00",
+      "transactionType": "debit",
+      "date": "10/19/2022",
+      "month": "October"
+    },
+    {
+      "amount": "350.00",
+      "transactionType": "debit",
+      "date": "10/16/2022",
+      "month": "October"
+    },
+    {
+      "amount": "420.00",
+      "transactionType": "debit",
+      "date": "10/12/2022",
+      "month": "October"
+    },
+    {
+      "amount": "329.00",
+      "transactionType": "debit",
+      "date": "10/3/2022",
+      "month": "October"
+    }
+  ],
+  "1003": [
+    {
+      "amount": "339.00",
+      "transactionType": "debit",
+      "date": "12/14/2022",
+      "month": "December"
+    },
+    {
+      "amount": "396.00",
+      "transactionType": "debit",
+      "date": "11/29/2022",
+      "month": "November"
+    },
+    {
+      "amount": "297.00",
+      "transactionType": "debit",
+      "date": "11/28/2022",
+      "month": "November"
+    },
+    {
+      "amount": "324.00",
+      "transactionType": "credit",
+      "date": "11/23/2022",
+      "month": "November"
+    },
+    {
+      "amount": "15.00",
+      "transactionType": "debit",
+      "date": "11/16/2022",
+      "month": "November"
+    },
+    {
+      "amount": "355.00",
+      "transactionType": "debit",
+      "date": "11/10/2022",
+      "month": "November"
+    },
+    {
+      "amount": "283.00",
+      "transactionType": "debit",
+      "date": "11/3/2022",
+      "month": "November"
+    },
+    {
+      "amount": "278.00",
+      "transactionType": "debit",
+      "date": "11/2/2022",
+      "month": "November"
+    },
+    {
+      "amount": "192.00",
+      "transactionType": "debit",
+      "date": "10/29/2022",
+      "month": "October"
+    },
+    {
+      "amount": "360.00",
+      "transactionType": "debit",
+      "date": "10/23/2022",
+      "month": "October"
+    },
+    {
+      "amount": "156.00",
+      "transactionType": "credit",
+      "date": "10/19/2022",
+      "month": "October"
+    },
+    {
+      "amount": "478.00",
+      "transactionType": "debit",
+      "date": "10/16/2022",
+      "month": "October"
+    },
+    {
+      "amount": "178.00",
+      "transactionType": "debit",
+      "date": "10/12/2022",
+      "month": "October"
+    },
+    {
+      "amount": "229.00",
+      "transactionType": "debit",
+      "date": "10/3/2022",
+      "month": "October"
+    }
+  ],
+  "1004": [
+    {
+      "amount": "39.00",
+      "transactionType": "debit",
+      "date": "12/14/2022",
+      "month": "December"
+    },
+    {
+      "amount": "128.00",
+      "transactionType": "debit",
+      "date": "11/29/2022",
+      "month": "November"
+    },
+    {
+      "amount": "106.00",
+      "transactionType": "debit",
+      "date": "11/28/2022",
+      "month": "November"
+    },
+    {
+      "amount": "188.00",
+      "transactionType": "debit",
+      "date": "11/23/2022",
+      "month": "November"
+    },
+    {
+      "amount": "484.00",
+      "transactionType": "debit",
+      "date": "11/16/2022",
+      "month": "November"
+    },
+    {
+      "amount": "266.00",
+      "transactionType": "debit",
+      "date": "11/10/2022",
+      "month": "November"
+    },
+    {
+      "amount": "110.00",
+      "transactionType": "debit",
+      "date": "11/3/2022",
+      "month": "November"
+    },
+    {
+      "amount": "235.00",
+      "transactionType": "debit",
+      "date": "11/2/2022",
+      "month": "November"
+    },
+    {
+      "amount": "222.00",
+      "transactionType": "debit",
+      "date": "10/29/2022",
+      "month": "October"
+    },
+    {
+      "amount": "318.00",
+      "transactionType": "debit",
+      "date": "10/23/2022",
+      "month": "October"
+    },
+    {
+      "amount": "26.00",
+      "transactionType": "debit",
+      "date": "10/19/2022",
+      "month": "October"
+    },
+    {
+      "amount": "499.00",
+      "transactionType": "debit",
+      "date": "10/16/2022",
+      "month": "October"
+    },
+    {
+      "amount": "234.00",
+      "transactionType": "debit",
+      "date": "10/12/2022",
+      "month": "October"
+    },
+    {
+      "amount": "204.00",
+      "transactionType": "debit",
+      "date": "10/3/2022",
+      "month": "October"
+    }
+  ],
+  "1005": [
+    {
+      "amount": "103.00",
+      "transactionType": "debit",
+      "date": "12/14/2022",
+      "month": "December"
+    },
+    {
+      "amount": "466.00",
+      "transactionType": "debit",
+      "date": "11/29/2022",
+      "month": "November"
+    },
+    {
+      "amount": "168.00",
+      "transactionType": "debit",
+      "date": "11/28/2022",
+      "month": "November"
+    },
+    {
+      "amount": "297.00",
+      "transactionType": "credit",
+      "date": "11/23/2022",
+      "month": "November"
+    },
+    {
+      "amount": "293.00",
+      "transactionType": "debit",
+      "date": "11/16/2022",
+      "month": "November"
+    },
+    {
+      "amount": "83.00",
+      "transactionType": "debit",
+      "date": "11/10/2022",
+      "month": "November"
+    },
+    {
+      "amount": "187.00",
+      "transactionType": "debit",
+      "date": "11/3/2022",
+      "month": "November"
+    },
+    {
+      "amount": "65.00",
+      "transactionType": "debit",
+      "date": "11/2/2022",
+      "month": "November"
+    },
+    {
+      "amount": "253.00",
+      "transactionType": "debit",
+      "date": "10/29/2022",
+      "month": "October"
+    },
+    {
+      "amount": "179.00",
+      "transactionType": "debit",
+      "date": "10/23/2022",
+      "month": "October"
+    },
+    {
+      "amount": "361.00",
+      "transactionType": "debit",
+      "date": "10/19/2022",
+      "month": "October"
+    },
+    {
+      "amount": "150.00",
+      "transactionType": "credit",
+      "date": "10/16/2022",
+      "month": "October"
+    },
+    {
+      "amount": "399.00",
+      "transactionType": "debit",
+      "date": "10/12/2022",
+      "month": "October"
+    },
+    {
+      "amount": "262.00",
+      "transactionType": "debit",
+      "date": "10/3/2022",
+      "month": "October"
+    }
+  ],
+  "1006": [
+    {
+      "amount": "448.00",
+      "transactionType": "debit",
+      "date": "12/14/2022",
+      "month": "December"
+    },
+    {
+      "amount": "498.00",
+      "transactionType": "debit",
+      "date": "11/29/2022",
+      "month": "November"
+    },
+    {
+      "amount": "349.00",
+      "transactionType": "credit",
+      "date": "11/28/2022",
+      "month": "November"
+    },
+    {
+      "amount": "31.00",
+      "transactionType": "debit",
+      "date": "11/23/2022",
+      "month": "November"
+    },
+    {
+      "amount": "18.00",
+      "transactionType": "debit",
+      "date": "11/16/2022",
+      "month": "November"
+    },
+    {
+      "amount": "38.00",
+      "transactionType": "debit",
+      "date": "11/10/2022",
+      "month": "November"
+    },
+    {
+      "amount": "79.00",
+      "transactionType": "debit",
+      "date": "11/3/2022",
+      "month": "November"
+    },
+    {
+      "amount": "369.00",
+      "transactionType": "debit",
+      "date": "11/2/2022",
+      "month": "November"
+    },
+    {
+      "amount": "399.00",
+      "transactionType": "debit",
+      "date": "10/29/2022",
+      "month": "October"
+    },
+    {
+      "amount": "449.00",
+      "transactionType": "credit",
+      "date": "10/23/2022",
+      "month": "October"
+    },
+    {
+      "amount": "414.00",
+      "transactionType": "debit",
+      "date": "10/19/2022",
+      "month": "October"
+    },
+    {
+      "amount": "255.00",
+      "transactionType": "debit",
+      "date": "10/16/2022",
+      "month": "October"
+    },
+    {
+      "amount": "71.00",
+      "transactionType": "debit",
+      "date": "10/12/2022",
+      "month": "October"
+    },
+    {
+      "amount": "229.00",
+      "transactionType": "debit",
+      "date": "10/3/2022",
+      "month": "October"
+    }
+  ],
+  "1007": [
+    {
+      "amount": "210.00",
+      "transactionType": "debit",
+      "date": "12/14/2022",
+      "month": "December"
+    },
+    {
+      "amount": "177.00",
+      "transactionType": "debit",
+      "date": "11/29/2022",
+      "month": "November"
+    },
+    {
+      "amount": "74.00",
+      "transactionType": "debit",
+      "date": "11/28/2022",
+      "month": "November"
+    },
+    {
+      "amount": "471.00",
+      "transactionType": "debit",
+      "date": "11/23/2022",
+      "month": "November"
+    },
+    {
+      "amount": "199.00",
+      "transactionType": "debit",
+      "date": "11/16/2022",
+      "month": "November"
+    },
+    {
+      "amount": "396.00",
+      "transactionType": "debit",
+      "date": "11/10/2022",
+      "month": "November"
+    },
+    {
+      "amount": "310.00",
+      "transactionType": "debit",
+      "date": "11/3/2022",
+      "month": "November"
+    },
+    {
+      "amount": "265.00",
+      "transactionType": "debit",
+      "date": "11/2/2022",
+      "month": "November"
+    },
+    {
+      "amount": "463.00",
+      "transactionType": "debit",
+      "date": "10/29/2022",
+      "month": "October"
+    },
+    {
+      "amount": "141.00",
+      "transactionType": "debit",
+      "date": "10/23/2022",
+      "month": "October"
+    },
+    {
+      "amount": "346.00",
+      "transactionType": "debit",
+      "date": "10/19/2022",
+      "month": "October"
+    },
+    {
+      "amount": "399.00",
+      "transactionType": "debit",
+      "date": "10/16/2022",
+      "month": "October"
+    },
+    {
+      "amount": "205.00",
+      "transactionType": "debit",
+      "date": "10/12/2022",
+      "month": "October"
+    },
+    {
+      "amount": "487.00",
+      "transactionType": "debit",
+      "date": "10/3/2022",
+      "month": "October"
+    }
+  ],
+  "1008": [
+    {
+      "amount": "200.00",
+      "transactionType": "debit",
+      "date": "12/14/2022",
+      "month": "December"
+    },
+    {
+      "amount": "397.00",
+      "transactionType": "debit",
+      "date": "11/29/2022",
+      "month": "November"
+    },
+    {
+      "amount": "57.00",
+      "transactionType": "debit",
+      "date": "11/28/2022",
+      "month": "November"
+    },
+    {
+      "amount": "86.00",
+      "transactionType": "debit",
+      "date": "11/23/2022",
+      "month": "November"
+    },
+    {
+      "amount": "112.00",
+      "transactionType": "debit",
+      "date": "11/16/2022",
+      "month": "November"
+    },
+    {
+      "amount": "160.00",
+      "transactionType": "debit",
+      "date": "11/10/2022",
+      "month": "November"
+    },
+    {
+      "amount": "313.00",
+      "transactionType": "debit",
+      "date": "11/3/2022",
+      "month": "November"
+    },
+    {
+      "amount": "143.00",
+      "transactionType": "debit",
+      "date": "11/2/2022",
+      "month": "November"
+    },
+    {
+      "amount": "493.00",
+      "transactionType": "debit",
+      "date": "10/29/2022",
+      "month": "October"
+    },
+    {
+      "amount": "43.00",
+      "transactionType": "debit",
+      "date": "10/23/2022",
+      "month": "October"
+    },
+    {
+      "amount": "74.00",
+      "transactionType": "debit",
+      "date": "10/19/2022",
+      "month": "October"
+    },
+    {
+      "amount": "338.00",
+      "transactionType": "debit",
+      "date": "10/16/2022",
+      "month": "October"
+    },
+    {
+      "amount": "346.00",
+      "transactionType": "debit",
+      "date": "10/12/2022",
+      "month": "October"
+    },
+    {
+      "amount": "427.00",
+      "transactionType": "debit",
+      "date": "10/3/2022",
+      "month": "October"
+    }
+  ],
+  "1009": [
+    {
+      "amount": "182.00",
+      "transactionType": "debit",
+      "date": "12/14/2022",
+      "month": "December"
+    },
+    {
+      "amount": "33.00",
+      "transactionType": "debit",
+      "date": "11/29/2022",
+      "month": "November"
+    },
+    {
+      "amount": "26.00",
+      "transactionType": "debit",
+      "date": "11/28/2022",
+      "month": "November"
+    },
+    {
+      "amount": "140.00",
+      "transactionType": "debit",
+      "date": "11/23/2022",
+      "month": "November"
+    },
+    {
+      "amount": "278.00",
+      "transactionType": "debit",
+      "date": "11/16/2022",
+      "month": "November"
+    },
+    {
+      "amount": "350.00",
+      "transactionType": "debit",
+      "date": "11/10/2022",
+      "month": "November"
+    },
+    {
+      "amount": "110.00",
+      "transactionType": "credit",
+      "date": "11/3/2022",
+      "month": "November"
+    },
+    {
+      "amount": "141.00",
+      "transactionType": "debit",
+      "date": "11/2/2022",
+      "month": "November"
+    },
+    {
+      "amount": "343.00",
+      "transactionType": "debit",
+      "date": "10/29/2022",
+      "month": "October"
+    },
+    {
+      "amount": "325.00",
+      "transactionType": "debit",
+      "date": "10/23/2022",
+      "month": "October"
+    },
+    {
+      "amount": "124.00",
+      "transactionType": "debit",
+      "date": "10/19/2022",
+      "month": "October"
+    },
+    {
+      "amount": "365.00",
+      "transactionType": "debit",
+      "date": "10/16/2022",
+      "month": "October"
+    },
+    {
+      "amount": "16.00",
+      "transactionType": "debit",
+      "date": "10/12/2022",
+      "month": "October"
+    },
+    {
+      "amount": "460.00",
+      "transactionType": "debit",
+      "date": "10/3/2022",
+      "month": "October"
+    }
+  ]
+}
