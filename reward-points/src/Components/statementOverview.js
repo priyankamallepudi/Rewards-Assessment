@@ -65,11 +65,12 @@ export const StatementOverview = () => {
   };
 
   return (
-    <div>
+    <div data-testid="statement-overview-element">
       <div className="container mt-3">
         <div className="input-group submit-form">
           <input
             type="number"
+            data-testid="customer-search-input"
             maxLength="4"
             value={customerId}
             onChange={(e) => setCustomerId(e.target.value)}
@@ -79,6 +80,7 @@ export const StatementOverview = () => {
           <div className="input-group-append">
             <button
               className="btn btn-success"
+              data-testid="customer-search-button"
               onClick={() => getCustomerStatement()}
             >
               Get Statement
@@ -89,7 +91,7 @@ export const StatementOverview = () => {
         </div>
       </div>
       {transactionData.length > 0 && (
-        <div class="table-wrapper">
+        <div className="table-wrapper">
           <div>
             <table className="table table-striped rewards-table">
               <thead>
